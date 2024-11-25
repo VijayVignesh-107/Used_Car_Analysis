@@ -6,7 +6,7 @@ The dataset i'm analysing here is based on used cars which has its features, cur
 
 This dataset can be analysed using data science,to pridict the future trends of the car sale market in india.
 
-The dataset has 14 columns which gives us unique information about a particular car in each and every aspect to analyse and visualize the data.
+The dataset has 13 columns which gives us unique information about a particular car in each and every aspect to analyse and visualize the data.
 Description of the Dataset:
 
 car_name: This column contains the name of the car. Since car brands produce multiple models, not every car attracts buyers equally. Some models are highly popular, while others are not. By analyzing this column, we can differentiate cars based on their names and understand which models from a particular brand attract more buyers. This can also help identify why certain models are more appealing based on other related attributes.
@@ -24,6 +24,8 @@ transmission_type: This column indicates the car’s transmission type (manual o
 vehicle_age: This column provides the car's age (in years). Generally, buyers in the used car market avoid older models. With advancements in technology, newer cars often offer better features, which buyers expect even in used cars. By analyzing this data, we can identify the preferred age range for used cars.
 
 mileage: This column represents the car’s mileage. Rising fuel and energy costs have made mileage a critical factor for buyers. Most used car buyers prioritize mileage as a deciding factor. Analyzing this data can help identify patterns in buyer preferences.
+
+km_driven: This column gives us the value of maximum kilometers teh car has ran till now. This also gives us insight of the engine life and usually lower kms car are preferred by the users.
 
 engine: This column gives the engine’s displacement (in cc). The size of the engine affects both fuel consumption and mileage, which are key considerations for buyers. This column can help identify the preferred engine sizes in the used car market.
 
